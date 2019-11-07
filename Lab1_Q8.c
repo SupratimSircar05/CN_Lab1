@@ -1,3 +1,4 @@
+// identify architecture of the computer
 #include <stdio.h>
 int main ()
 {

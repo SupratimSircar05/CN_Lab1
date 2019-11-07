@@ -1,3 +1,4 @@
+// add two complex numbers
 #include<stdio.h>
 
 typedef struct Complex {

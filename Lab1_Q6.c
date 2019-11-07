@@ -1,3 +1,4 @@
+// employee nested structure
 #include<stdio.h>
 
 typedef struct Employee {

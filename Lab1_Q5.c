@@ -1,3 +1,4 @@
+// structure - input dat through func. and return struct var, display in main()
 #include<stdio.h>
 
 typedef struct Student {

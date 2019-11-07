@@ -1,3 +1,4 @@
+// extract each byte of a number and store in different vars.
 #include<stdio.h>
 
 typedef unsigned char BYTE;

@@ -1,3 +1,4 @@
+// structure - input and display
 #include<stdio.h>
 
 typedef struct Student {

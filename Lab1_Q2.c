@@ -1,3 +1,4 @@
+// add two numbers, take input using command line args
 #include<stdio.h>
 #include<stdlib.h>
 

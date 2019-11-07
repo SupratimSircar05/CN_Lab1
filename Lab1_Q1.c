@@ -1,3 +1,4 @@
+// swap contents of two variables using pointer
 #include<stdio.h>
 
 void swap(int *a, int *b) {
